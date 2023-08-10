@@ -49,5 +49,6 @@ sellProduct(char) â€“ Receive the first character of the wanted product (e.g. â€
  enough 
 
 
+![alt text]([http://url/to/img.png](https://github.com/idanluski/vending-machin-and-ADT/blob/main/mai.png)https://github.com/idanluski/vending-machin-and-ADT/blob/main/mai.png)
 
  
